@@ -2,5 +2,7 @@
     <string name="app_name">HLGSFilters</string>
     <string name="choose_a_image">Escolha uma imagem para começar a editar</string>
     <string name="add_icon_description">A plus sign</string>
+    <string name="select_filters">Select filters</string>
+    <string name="pixel_sorting">Pixel sorter</string>
     <string name="request_permission">Por favor, habilite o acesso à galeria para que o aplicativo funcione corretamente</string>
 </resources>
